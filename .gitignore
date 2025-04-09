@@ -90,3 +90,9 @@ target/
 .mypy_cache/
 
 .gradio/
+notebooks/config.json
+notebooks/file_example_JPG_100kB.jpg
+notebooks/file_example_JPG_2500kB.jpg
+notebooks/Image_to_Snowflake.ipynb
+notebooks/key.file.txt
+notebooks/output.jpg
